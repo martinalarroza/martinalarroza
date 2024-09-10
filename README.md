@@ -1,6 +1,6 @@
 # 👋 Hola, soy Martina
 
-![Banner de Martina](Archivo.png)
+![Banner de Martina](banner.gif)
 
 Soy **Técnica Programadora** especializada en **Desarrollo Backend**. Tengo experiencia trabajando con diversas tecnologías, como:
 
