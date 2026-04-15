@@ -1,13 +1,12 @@
 # 👋 Hello, I'm Martina
 
-![Banner de Martina](banner.gif)
+I am **Technical Programmer** specializing in **Fullstack Developer**. I have experience working with various technologies, such as:
 
-I am **Technical Programmer** specializing in **Backend Development**. I have experience working with various technologies, such as:
-
+- **Web development**: HTML, CSS, Javascript, UX
 - **Languages**: C#, Python, PHP
 - **Frameworks**: .NET, Flask
 - **Databases**: MySQL, PostgreSQL
-- I am currently studying **Cybersecurity** to expand my knowledge in software security.
+
 
 
 ## 📫 Contact
